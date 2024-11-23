@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GS_Microservice",
+    "\\GS_Microservice\\Domain",
+    "\\GS_Microservice\\Energia",
+    "\\GS_Microservice\\Energia\\Controllers",
+    "\\GS_Microservice\\Energia\\Interfaces",
+    "\\GS_Microservice\\Repositorios",
+    "\\GS_Microservice\\Repositorios\\Interfaces",
+    "\\GS_Microservice\\Teste"
+  ],
+  "PreviewInSolutionExplorer": false
+}
